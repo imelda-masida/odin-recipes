@@ -1,0 +1,18 @@
+* {
+margin-right: auto;
+text-decoration-line: none;
+
+}
+
+.Head {
+    display: flex;
+    margin: auto;
+    justify-content: end;
+    
+
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
