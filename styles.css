@@ -1,14 +1,22 @@
 * {
-margin-right: auto;
-text-decoration-line: none;
+background-color: beige;
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 22px;
 
 }
 
-.Head {
+.container {
     display: flex;
+    }
+
+.Head {
     margin: auto;
-    justify-content: end;
-    
+    padding: 10px;
+    border: 20px;
+    list-style: none;
+    display: flex;
+    gap: 200px;
 
 }
 
